@@ -1,0 +1,22 @@
+id: A45B6765D
+title: Toh_114-The_King_of_the_Array_of_All_Dharmas-v1
+type: translation
+pechas:
+- IACA7ABC5
+- I3C8D94F5
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2019-01-19T04:50:26.544Z'
+  creationid: BG
+  eft-text-id: UT22084-051-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_114-The_King_of_the_Array_of_All_Dharmas-v1
+alignment_to_base:
+  IACA7ABC5/5D24: 32B1
+  I3C8D94F5/6CE1: 32B1
